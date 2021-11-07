@@ -1,6 +1,6 @@
 # ARPolis
 <p align="center">
-<a href="" target="_blank" align="center">
+<a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/README.md" target="_blank" align="center">
     <img src="https://arpolis.gr/wp-content/uploads/2020/03/arpolis_logo_new-512x480.png" width="280">
 </a>
 <br />
