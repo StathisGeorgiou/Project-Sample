@@ -1,6 +1,6 @@
 # ARPolis
 <p align="center">
-<a href="https://arpolis.gr/" target="_blank" align="center">
+<a href="" target="_blank" align="center">
     <img src="https://arpolis.gr/wp-content/uploads/2020/03/arpolis_logo_new-512x480.png" width="280">
 </a>
 <br />
@@ -40,3 +40,9 @@
 Η <a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Sample-Scripts/GlobalActionsUI.cs" target="_blank">GlobalActionsUI</a> κλάση είναι υπεύθυνη για την επικοινωνία μεταξύ των κλάσεων της εφαρμογής καθώς και για τον διαμοιρασμό των απαραίτητων δεδομένων - μηνυμάτων με την χρήση <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/" target="_blank">delegates</a>. Η κλάση <a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Sample-Scripts/PoiItem.cs" target="_blank">PoiItem</a> η οποία αντιπροσωπεύει ένα UI αντικείμενο (map button) κατά την επιλογή του απο τον χρήστη κάνει χρήση delegate action ώστε η εφαρμογή να προβάλει τις αντίστοιχες, σχετικές με το έκθεμα, πληροφορίες.
 
 Τέλος η <a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Sample-Scripts/InfoManager.cs" target="_blank">InfoManager</a> κλάση είναι υπεύθυνη για την ανάκτηση των δεδομένων και των πληροφοριών της εφαρμογής.
+
+## Σχετικοί σύνδεσμοι
+
+* <a href="https://arpolis.gr/" target="_blank">ARPolis - Ιστοσελίδα</a>
+* <a href="https://play.google.com/store/apps/details?id=net.Diadrasis.ARPolis" target="_blank">ARPolis beta - Google Play</a>
+* <a href="https://apps.apple.com/in/app/arpolis/id1526799438" target="_blank">ARPolis beta - App Store</a>
