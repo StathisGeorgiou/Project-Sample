@@ -43,6 +43,6 @@
 
 ## Σχετικοί σύνδεσμοι
 
-* <a href="https://arpolis.gr/" target="_blank" rel="noopener noreferrer">ARPolis - Ιστοσελίδα</a>
+* <p><a href="https://arpolis.gr/" target="_blank" rel="noopener noreferrer">ARPolis - Ιστοσελίδα</a></p>
 * <a href="https://play.google.com/store/apps/details?id=net.Diadrasis.ARPolis" target="_blank" rel="noopener noreferrer">ARPolis beta - Google Play</a>
 * <a href="https://apps.apple.com/in/app/arpolis/id1526799438" target="_blank" rel="noopener noreferrer">ARPolis beta - App Store</a>
