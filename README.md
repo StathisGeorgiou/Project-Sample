@@ -14,8 +14,8 @@
 ## Σχεδιασμός εφαρμογής
 
 <p align="center">
-<a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Multimedia/design_mockups.jpg" target="_blank" align="center">
-    <img src="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Multimedia/design_mockups.jpg" width="800">
+<a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Multimedia/design_mockups.jpg" target="_blank" align="center">
+    <img src="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Multimedia/design_mockups.jpg" width="800">
 </a>
 <br />
     </p>
@@ -27,16 +27,16 @@
 ## Ανάπτυξη εφαρμογής
 
 <p align="center">
-<a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Multimedia/unity-project.jpg" target="_blank" align="center">
-    <img src="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Multimedia/unity-project.jpg" width="800">
+<a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Multimedia/unity-project.jpg" target="_blank" align="center">
+    <img src="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Multimedia/unity-project.jpg" width="800">
 </a>
 <br />
     </p>
 
 Η ανάπτυξη της εφαρμογής υλοποιείται με τη χρήση του λογισμικού πακέτου Unity3D. Πρόκειται για ένα πολύ δυνατό και εύχρηστο εργαλείο με το οποίο ο χρήστης μπορεί να δημιουργεί και να εξελίσσει δισδιάστατες ή και τρισδιάστατες εφαρμογές σε πολλές πλατφόρμες (cross-platform) μειώνοντας το κόστος ανάπτυξης. Παράλληλα για την υλοποίηση και παραμετροποίηση χρησιμοποιούνται scripts που αναπτύσσονται στην γλώσσα C#.Έχει ενσωματωμένο ολοκληρωμένο περιβάλλον ανάπτυξης (IDE) και με την εισαγωγή κατάλληλων βιβλιοθηκών μπορεί να αναβαθμιστεί η λειτουργικότητα της εφαρμογής με τεχνικές εκτεταμένης πραγματικότητας (XR).
 
-Στην εικόνα 2 φαίνεται η δομή του project. Στον φάκελο <a href="https://github.com/StathisGeorgiou/Sample-Project/tree/main/Sample-Scripts" target="_blank">Sample-Scripts</a> έχουν τοποθετηθεί απο το project ενδεικτικά κάποιες κλάσεις.
+Στην εικόνα 2 φαίνεται η δομή του project. Στον φάκελο <a href="https://github.com/StathisGeorgiou/Project-Sample/tree/main/Sample-Scripts" target="_blank">Sample-Scripts</a> έχουν τοποθετηθεί απο το project ενδεικτικά κάποιες κλάσεις.
 
-Η <a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Sample-Scripts/GlobalActionsUI.cs" target="_blank">GlobalActionsUI</a> κλάση είναι υπεύθυνη για την επικοινωνία μεταξύ των κλάσεων της εφαρμογής καθώς και για τον διαμοιρασμό των απαραίτητων δεδομένων - μηνυμάτων με την χρήση <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/" target="_blank">delegates</a>. Η κλάση <a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Sample-Scripts/PoiItem.cs" target="_blank">PoiItem</a> η οποία αντιπροσωπεύει ένα UI αντικείμενο (map button) κατά την επιλογή του απο τον χρήστη κάνει χρήση delegate action ώστε η εφαρμογή να προβάλει τις αντίστοιχες, σχετικές με το έκθεμα, πληροφορίες.
+Η <a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Sample-Scripts/GlobalActionsUI.cs" target="_blank">GlobalActionsUI</a> κλάση είναι υπεύθυνη για την επικοινωνία μεταξύ των κλάσεων της εφαρμογής καθώς και για τον διαμοιρασμό των απαραίτητων δεδομένων - μηνυμάτων με την χρήση <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/" target="_blank">delegates</a>. Η κλάση <a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Sample-Scripts/PoiItem.cs" target="_blank">PoiItem</a> η οποία αντιπροσωπεύει ένα UI αντικείμενο (map button) κατά την επιλογή του απο τον χρήστη κάνει χρήση delegate action ώστε η εφαρμογή να προβάλει τις αντίστοιχες, σχετικές με το έκθεμα, πληροφορίες.
 
-Τέλος η <a href="https://github.com/StathisGeorgiou/Sample-Project/blob/main/Sample-Scripts/InfoManager.cs" target="_blank">InfoManager</a> κλάση είναι υπεύθυνη για την ανάκτηση των δεδομένων και των πληροφοριών της εφαρμογής.
+Τέλος η <a href="https://github.com/StathisGeorgiou/Project-Sample/blob/main/Sample-Scripts/InfoManager.cs" target="_blank">InfoManager</a> κλάση είναι υπεύθυνη για την ανάκτηση των δεδομένων και των πληροφοριών της εφαρμογής.
